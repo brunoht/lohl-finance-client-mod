@@ -1,0 +1,13 @@
+{
+    "name": "FinanceClientMod",
+    "alias": "financeclientmod",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FinanceClientMod\\Providers\\FinanceClientModServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
